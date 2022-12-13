@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "489789081943",
+    "project_id": "gelirgidertakip-40446",
+    "storage_bucket": "gelirgidertakip-40446.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489789081943:android:0001082a4a8bf18e42d612",
+        "android_client_info": {
+          "package_name": "com.serhatgun.gelirgidertakip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489789081943-peenq7ri5tkrqo9f2o0g5hk6jt7r1kj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.serhatgun.gelirgidertakip",
+            "certificate_hash": "c84c8122eb2ce770772e9a7663206f00ae52831c"
+          }
+        },
+        {
+          "client_id": "489789081943-krf7gf8sp1sqbe11deltc9qvuguf45i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVnPXHPM8AhFiNvn8_P-1OnM5JId3wOp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489789081943-krf7gf8sp1sqbe11deltc9qvuguf45i8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "489789081943-e77tu639ap0on6mf7eo25kcrj0f5tal0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.serhatgun.gelirgidertakip"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
